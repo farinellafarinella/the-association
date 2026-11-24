@@ -1,15 +1,6 @@
-# The Association 1.9 Mobile
+# The Association 2.0 Mobile
+Caricare tutti i file nella root del repository GitHub Pages. Settings > Pages > Deploy from a branch > main > / (root).
 
-Gioco HTML autonomo. Tutte le immagini sono incorporate.
+Su iPhone: Safari > Condividi > Aggiungi alla schermata Home. Aprire dall’icona e ruotare il telefono. Su Android: Chrome > menu > Installa app (se disponibile). Il browser può supportare lo schermo intero tramite il pulsante iniziale. La rotazione su iOS va effettuata manualmente.
 
-## GitHub Pages
-1. Crea un repository pubblico (es. the-association).
-2. Carica index.html, .nojekyll e README.md nella radice del repository.
-3. Settings → Pages → Deploy from a branch → main → /(root) → Save.
-4. Apri il link pubblicato da GitHub Pages sullo smartphone.
-
-## Comandi
-Smartphone: frecce touch, LANCIA TESSERE (anche tenuto premuto), AUTO e ingranaggio per pausa. Supporta verticale e orizzontale.
-Computer: WASD/frecce, spazio, F e ESC.
-
-Il salvataggio è locale al browser e non si sincronizza fra dispositivi.
+La prima apertura richiede internet; dopo il completamento della cache PWA il gioco può funzionare offline. I progressi sono locali al browser/app.
