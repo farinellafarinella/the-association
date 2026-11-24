@@ -1,1 +1,1 @@
-The Association 2.1 — caricare tutti i file nella root di GitHub Pages. Smartphone: ruotare in orizzontale; installazione da Safari tramite Aggiungi alla schermata Home. Boss Macramè ogni quattro mercoledì, rendiconto 200 €, trofei e equipaggiamenti a munizioni limitate. Gli altri boss non sono ancora differenziati.
+The Association 2.3 — caricare tutti i file nella root di GitHub Pages. Modalità landscape e PWA. Boss doppio, missioni, archivio e inventario in pausa.
